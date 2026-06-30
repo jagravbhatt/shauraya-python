@@ -1,7 +1,7 @@
-a=10        # int
-b=10.77     #float
-c="shaurya"    # string/text 
-d=True    # boolen true or false 
+a=10        
+b=10.77     
+c="shaurya"   
+d=True   
 
 
 print(type(a))
