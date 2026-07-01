@@ -64,3 +64,16 @@
 # colors={"red","blue", "green","black","red"}
 # print(len(colors))
 # print(colors)
+
+
+
+# num={10,10,5,5,6,7,8,9,0,0,0}
+# print(len(num))
+# print(num)
+
+# veg={"flower ","flower ","carrot","cabbage","bringal","carrot"}
+# print(veg)
+
+colors={"red","green","yellow"}
+print(len(colors))
+print(colors)
